@@ -68,7 +68,7 @@ The original dataset contains sales-related information, including:
 - Sales and profit
 - Quantity and discounts
 - Shipping information
-- Geographic information
+- Address information
 
 **Original dataset:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
@@ -124,7 +124,7 @@ The fact table contains measurable business events, while dimension tables provi
 For example:
 
 - Fact table: Order Sales
-- Dimensions: Customer, Product, Date, Geography, and Shipping.
+- Dimensions: Customer, Product, Date, Address, and Shipping.
 
 This structure is simple and efficient for analytical queries.
 
